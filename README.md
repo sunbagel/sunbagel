@@ -1,5 +1,8 @@
-## Hey! I'm Alex!
+<h1 align="center"> Hey, I'm Alex! </h1>
 
+<div align="center"> <img src="jump.gif" alt="JUMP" /> </div>
+
+## About me:
 I'm studying Computer Science at the University of Waterloo. I'm deeply interested in distributed systems, large-scale cloud infrastructure, and machine learning. 
 
 Outside of tech, you can find me playing volleyball, basketball, and training to jump higher! 🐦‍⬛
@@ -7,7 +10,8 @@ Outside of tech, you can find me playing volleyball, basketball, and training to
 ## Experience:
 - Prev SDE intern @AWS Lambda, where I researched and prototyped infrastructure for large-scale stream processing using Apache Flink
 - Prev Backend @NCR Voyix
-- Prev a dev at @UW Blueprint, a club that builds tech for social good
+  
+- Prev Full Stack at @UW Blueprint, building tech for social good
 
 ### Let's Connect!
 I'm currently looking for Winter and Summer 2026 internships! You can find me at <allu@uwaterloo.ca> and [/in/allu8/](https://linkedin.com/in/allu8)
